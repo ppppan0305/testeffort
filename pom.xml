@@ -9,11 +9,20 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-web -->
+<!--        1   2011-2730   -->
+        <!--  https://mvnrepository.com/artifact/org.springframework/spring-web -->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-web</artifactId>-->
+<!--            <version>2.5.6</version>-->
+<!--        </dependency>-->
+
+<!--2  2011-2894 core-2.0.6  spring-beans3.0.2.RELEASE-->
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-web</artifactId>
-            <version>2.5.6</version>
+            <artifactId>spring-beans</artifactId>
+            <version>3.0.2.RELEASE</version>
         </dependency>
 
     </dependencies>
