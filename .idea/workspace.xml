@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ecdb6f-381f-4c04-b477-a19ebc855aa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestEffort_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestEffort_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,7 @@
       <workItem from="1605235521675" duration="4768000" />
       <workItem from="1605425025779" duration="1831000" />
       <workItem from="1606901585553" duration="1911000" />
-      <workItem from="1606959866831" duration="2738000" />
+      <workItem from="1606959866831" duration="3965000" />
     </task>
     <servers />
   </component>
@@ -98,6 +100,10 @@
     <state x="256" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.303.1280.777/0.23.1920.917@0.23.1920.917" timestamp="1606907202759" />
     <state x="94" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.303.1280.777/0.23.1920.923@0.23.1920.923" timestamp="1605157683260" />
     <state x="94" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.303.1280.777/0.23.1920.930@0.23.1920.930" timestamp="1605148598257" />
+    <state x="1536" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1606964045467">
+      <screen x="0" y="23" width="1920" height="937" />
+    </state>
+    <state x="1536" y="198" key="#com.intellij.ide.util.MemberChooser/1920.303.1280.777/0.23.1920.937@0.23.1920.937" timestamp="1606964045467" />
     <state x="367" y="273" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606907189882">
       <screen x="0" y="23" width="1920" height="917" />
     </state>

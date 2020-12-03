@@ -9,6 +9,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
+
+
+
 <!--        1   2011-2730   -->
         <!--  https://mvnrepository.com/artifact/org.springframework/spring-web -->
 <!--        <dependency>-->
@@ -16,6 +19,9 @@
 <!--            <artifactId>spring-web</artifactId>-->
 <!--            <version>2.5.6</version>-->
 <!--        </dependency>-->
+
+
+
 
 <!--2  2011-2894 core-2.0.6  spring-beans3.0.2.RELEASE-->
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
@@ -25,6 +31,9 @@
 <!--            <version>3.0.2.RELEASE</version>-->
 <!--        </dependency>-->
 
+
+
+
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-oxm -->
 <!--        <dependency>-->
 <!--            <groupId>org.springframework</groupId>-->
@@ -32,12 +41,17 @@
 <!--            <version>4.0.1.RELEASE</version>-->
 <!--        </dependency>-->
 
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework</groupId>-->
-<!--            <artifactId>spring-webmvc</artifactId>-->
-<!--            <version>4.0.7.RELEASE</version>-->
-<!--        </dependency>-->
+
+
+
+<!--         https://mvnrepository.com/artifact/org.springframework/spring-webmvc-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>4.0.7.RELEASE</version>
+        </dependency>
+
+
 
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-messaging -->
 <!--        <dependency>-->
@@ -45,12 +59,15 @@
 <!--            <artifactId>spring-messaging</artifactId>-->
 <!--            <version>5.0.5.RELEASE</version>-->
 <!--        </dependency>-->
-        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-webflux</artifactId>
-            <version>5.2.0.RELEASE</version>
-        </dependency>
+
+
+
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework/spring-webflux &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-webflux</artifactId>-->
+<!--            <version>5.2.0.RELEASE</version>-->
+<!--        </dependency>-->
 
 
 
