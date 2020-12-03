@@ -26,13 +26,18 @@
 <!--        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-oxm -->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-oxm</artifactId>-->
+<!--            <version>4.0.1.RELEASE</version>-->
+<!--        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-oxm</artifactId>
-            <version>4.0.1.RELEASE</version>
+            <artifactId>spring-webmvc</artifactId>
+            <version>4.0.7.RELEASE</version>
         </dependency>
-
-
 
     </dependencies>
 

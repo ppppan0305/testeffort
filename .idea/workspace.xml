@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17ecdb6f-381f-4c04-b477-a19ebc855aa9" name="Default Changelist" comment="" />
+    <list default="true" id="17ecdb6f-381f-4c04-b477-a19ebc855aa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,7 @@
       <workItem from="1605235521675" duration="4768000" />
       <workItem from="1605425025779" duration="1831000" />
       <workItem from="1606901585553" duration="1911000" />
-      <workItem from="1606959866831" duration="2150000" />
+      <workItem from="1606959866831" duration="2434000" />
     </task>
     <servers />
   </component>
@@ -135,9 +138,9 @@
     </state>
     <state x="188" y="242" key="Maven.ArtifactSearchDialog/1920.303.1280.777/0.23.1920.917@0.23.1920.917" timestamp="1606906977714" />
     <state x="188" y="243" key="Maven.ArtifactSearchDialog/1920.303.1280.777/0.23.1920.923@0.23.1920.923" timestamp="1605148213970" />
-    <state x="138" y="118" key="SettingsEditor" timestamp="1605158155112">
+    <state x="138" y="118" key="SettingsEditor" timestamp="1606961854903">
       <screen x="0" y="23" width="1920" height="923" />
     </state>
-    <state x="138" y="118" key="SettingsEditor/1920.303.1280.777/0.23.1920.923@0.23.1920.923" timestamp="1605158155112" />
+    <state x="138" y="118" key="SettingsEditor/1920.303.1280.777/0.23.1920.923@0.23.1920.923" timestamp="1606961854903" />
   </component>
 </project>
