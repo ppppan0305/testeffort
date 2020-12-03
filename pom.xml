@@ -33,11 +33,23 @@
 <!--        </dependency>-->
 
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-webmvc</artifactId>-->
+<!--            <version>4.0.7.RELEASE</version>-->
+<!--        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-messaging -->
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-webmvc</artifactId>
-            <version>4.0.7.RELEASE</version>
+            <artifactId>spring-messaging</artifactId>
+            <version>5.0.5.RELEASE</version>
         </dependency>
+
+
+
+
+
 
     </dependencies>
 
