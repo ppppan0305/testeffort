@@ -45,11 +45,11 @@
 
 
 <!--         https://mvnrepository.com/artifact/org.springframework/spring-webmvc-->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-webmvc</artifactId>
-            <version>4.0.7.RELEASE</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework</groupId>-->
+<!--            <artifactId>spring-webmvc</artifactId>-->
+<!--            <version>4.0.7.RELEASE</version>-->
+<!--        </dependency>-->
 
 
 
@@ -62,12 +62,12 @@
 
 
 
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework/spring-webflux &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework</groupId>-->
-<!--            <artifactId>spring-webflux</artifactId>-->
-<!--            <version>5.2.0.RELEASE</version>-->
-<!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webflux</artifactId>
+            <version>5.2.0.RELEASE</version>
+        </dependency>
 
 
 
